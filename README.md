@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor URL: [Click here](https://www.frontendmentor.io/profile/Hummingcoder)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Frontend Mentor URL: [Click here](https://www.frontendmentor.io/solutions/blog-preview-card-utChBg1fg8)
+- Live Site URL: [Click here](https://hummingcoder.github.io/Blog-Preview-Card/)
 
 ### Built with
 
@@ -37,5 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hummingcoder)

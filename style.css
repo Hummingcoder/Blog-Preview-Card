@@ -27,12 +27,12 @@ article {
   border: 1px solid black;
   box-shadow: 8px 8px black;
   font-weight: 500;
-  transition: ease-in-out 0.2s;
+  transition: ease-in-out 0.3s;
 }
 article .img {
   width: 100%;
   border-radius: 10px;
-  margin-bottom: 1rem;
+  margin-bottom: 1.3rem;
 }
 section {
   display: flex;
@@ -57,6 +57,7 @@ section {
   text-decoration: none;
   font-size: 1.5rem;
   color: black;
+  transition: ease-in-out 0.2s;
   font-weight: 800;
 }
 
